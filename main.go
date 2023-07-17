@@ -1,4 +1,4 @@
-package go-pkg
+package gopkg
 
 import (
 	"fmt"
